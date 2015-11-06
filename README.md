@@ -1,6 +1,6 @@
 # omega-1-12-indexin
 
-Indexing of Iliad text in Escorial, Omega 1.12
+Indexing of Iliad text in Escorial, Omega 1.12.
 
 Index *Iliad* text to lines in each page in sequence:
 
