@@ -80,9 +80,9 @@ urn:cite:hmt:e4.49v,urn:cts:greekLit:tlg0012.tlg001.e4:5.740-5.778
 urn:cite:hmt:e4.50v,urn:cts:greekLit:tlg0012.tlg001.e4:5.818-5.855
 urn:cite:hmt:e4.51v,urn:cts:greekLit:tlg0012.tlg001.e4:5.895-5.909
 urn:cite:hmt:e4.51v,
-urn:cite:hmt:e4.52v,
-urn:cite:hmt:e4.53v,
-urn:cite:hmt:e4.54v,
+urn:cite:hmt:e4.52v,urn:cts:greekLit:tlg0012.tlg001.e4:6.38-6.76
+urn:cite:hmt:e4.53v,urn:cts:greekLit:tlg0012.tlg001.e4:6.116-6.154
+urn:cite:hmt:e4.54v,urn:cts:greekLit:tlg0012.tlg001.e4:6.194-6.232
 urn:cite:hmt:e4.55v,
 urn:cite:hmt:e4.56v,
 urn:cite:hmt:e4.57v,
@@ -401,10 +401,10 @@ urn:cite:hmt:e4.48r,urn:cts:greekLit:tlg0012.tlg001.e4:5.623-5.661
 urn:cite:hmt:e4.49r,urn:cts:greekLit:tlg0012.tlg001.e4:5.701-5.739
 urn:cite:hmt:e4.50r,urn:cts:greekLit:tlg0012.tlg001.e4:5.779-5.817
 urn:cite:hmt:e4.51r,urn:cts:greekLit:tlg0012.tlg001.e4:5.856-5.894
-urn:cite:hmt:e4.52r,
-urn:cite:hmt:e4.53r,
-urn:cite:hmt:e4.54r,
-urn:cite:hmt:e4.55r,
+urn:cite:hmt:e4.52r,urn:cts:greekLit:tlg0012.tlg001.e4:6.1-6.37
+urn:cite:hmt:e4.53r,urn:cts:greekLit:tlg0012.tlg001.e4:6.78-6.115
+urn:cite:hmt:e4.54r,urn:cts:greekLit:tlg0012.tlg001.e4:6.155-6.193
+urn:cite:hmt:e4.55r,urn:cts:greekLit:tlg0012.tlg001.e4:6.233-6.2
 urn:cite:hmt:e4.56r,
 urn:cite:hmt:e4.57r,
 urn:cite:hmt:e4.58r,
